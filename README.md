@@ -16,7 +16,7 @@ To get started with this project, you need to clone the repository and install t
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/yourusername/face-detection-recognition.git](https://github.com/garlapatiraviteja/Assesment_Huemm)
+    git clone https://github.com/garlapatiraviteja/Assesment_Huemm
     cd face-detection-recognition
     ```
 
