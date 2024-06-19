@@ -185,5 +185,5 @@ To run the project, follow these steps:
         print("Non-LFW image not found.")
     ```
 
-## Project Structure
+
 
