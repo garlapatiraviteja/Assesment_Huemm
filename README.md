@@ -185,5 +185,9 @@ To run the project, follow these steps:
         print("Non-LFW image not found.")
     ```
 
+## Project structure
 
-
+├── README.md
+├── requirements.txt
+├── main.py
+└── example.jpg
