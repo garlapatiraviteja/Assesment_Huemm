@@ -191,3 +191,11 @@ To run the project, follow these steps:
 ├── requirements.txt
 ├── main.py
 └── example.jpg
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
